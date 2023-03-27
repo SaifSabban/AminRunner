@@ -1,0 +1,2 @@
+cd C:\Users\saifs\Desktop\Personal\PlayCode\python\Game
+pyinstaller AminRunner.py --onefile --noconsole --icon=graphics\icon.ico
